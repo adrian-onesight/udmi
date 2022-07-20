@@ -123,3 +123,4 @@ Using UDMI on a project entails not only the base device and server implementati
 properly registering and validating device configuration. The [registrar](https://faucetsdn.github.io/udmi/docs/tools/registrar)
 tool and [validator](https://faucetsdn.github.io/udmi/docs/tools/validator) tool provide a means to configure and check site
 installations, respectively.
+
