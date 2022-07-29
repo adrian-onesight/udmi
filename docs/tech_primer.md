@@ -87,14 +87,14 @@ Device relationships and how they are modeled
 
 ## Device Qualification 
 
-[Device qualification](https://github.com/faucetsdn/daq/blob/master/docs/qualification.md)
+[Device qualification](https://github.com/adrian-onesight/daq/blob/master/docs/qualification.md)
 qualifies device types as meeting a baseline connectivity and security
 requirement by performing a series of predefined tests against a device.
 
 ### Prerequisites
 
 * Devices are available for qualification
-* [DAQ tool](https://github.com/faucetsdn/daq/) set up for use 
+* [DAQ tool](https://github.com/adrian-onesight/daq/) set up for use 
 
 ### Verification
 
