@@ -21,10 +21,10 @@ They key steps to setup the dedicated project are as follows:
     -   **Registry Name**: ZZ-TRI-FECTA
     -   **Cloud Region**: us-central1
 2.  Setup the site model by cloning the 
-    [example site model](https://github.com/adrian-onesight/udmi_site_model) 
+    [example site model](https://github.com/faucetsdn/udmi_site_model) 
     in the udmi root directory and running the [registrar](../tools/registrar.md) 
     tool to configure the site model in the IoT Core Registry.
-    -   `git clone https://github.com/adrian-onesight/udmi_site_model.git`
+    -   `git clone https://github.com/faucetsdn/udmi_site_model.git`
     -   `bin/registar <GCP_PROJECT_ID> udmi_site_model`
 2.  Set up the [sequence tests](../tools/sequencer.md). The public key used for the
     virtual device in the IoT Core registry is the public key from
