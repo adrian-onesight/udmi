@@ -17,4 +17,4 @@ The [pubber](../tools/pubber.md) tool can be used to mock out devices in lieu of
 this is very useful for isolating problems between a cloud-configuration issue vs. a
 device configuration one.
 
-An example site directory, as a reference, is available at [udmi_site_model](http://github.com/faucetsdn/udmi_site_model).
+An example site directory, as a reference, is available at [udmi_site_model](http://github.com/adrian-onesight/udmi_site_model).
