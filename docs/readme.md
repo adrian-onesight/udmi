@@ -9,7 +9,7 @@
 - [**Guides**](guides/)
 - [**Cloud Platforms**](cloud/)
 - [**Tools**](tools/)
-- [**Schema**](https://github.com/faucetsdn/udmi/tree/master/schema)
+- [**Schema**](https://github.com/adrian-onesight/udmi/tree/master/schema)
   ([_🧬Interactive viewer_](../gencode/docs/))
 
 ## About UDMI
